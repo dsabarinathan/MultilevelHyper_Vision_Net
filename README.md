@@ -26,7 +26,7 @@ Open the powershell or terminal
 $cd yourpathtoLightWeightModel
 
 $pwd
-> ~/LightWeightModel
+> ~/MultilevelHyper_Vision_Net-
 
 $pip install --upgrade -r requirements.txt
 
