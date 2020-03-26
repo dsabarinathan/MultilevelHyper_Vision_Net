@@ -1,5 +1,5 @@
 
-# Light Weight Residual Dense Attention Net for Spectral Reconstruction
+# MOIR´E IMAGE RESTORATION USING MULIT LEVEL HYPER VISION NET 
 
 
 ## Environment
