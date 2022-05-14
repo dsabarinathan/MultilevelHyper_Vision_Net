@@ -41,5 +41,5 @@ $python test.py --testImagePath=yourpathtoimages
 ```
 
 ## !Results:
- Our model secured the 10th place in the  NTIRE 2020 Challenge on ![Image Demoireing](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Yuan_NTIRE_2020_Challenge_on_Image_Demoireing_Methods_and_Results_CVPRW_2020_paper.pdf). 
+ Our model secured the 10th place in the  NTIRE 2020 Challenge on [Image Demoireing](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Yuan_NTIRE_2020_Challenge_on_Image_Demoireing_Methods_and_Results_CVPRW_2020_paper.pdf). 
 ![alt text](https://github.com/sabaridsn/MultilevelHyper_Vision_Net/blob/master/results.png)
